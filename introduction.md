@@ -5,6 +5,7 @@ My favorite path of codeschool is Ruby and Python.
 *Java
 *C++
 *AWS
+*Azure
 
 Thanks for the git/github courses provided by code school.
 
